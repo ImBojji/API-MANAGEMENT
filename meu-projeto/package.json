@@ -1,7 +1,7 @@
 {
   "name": "api-management",
   "version": "1.0.0",
-  "main": "api/index.js",
+  "main": "src/site.html",
   "dependencies": {
     "accepts": "^1.3.8",
     "anymatch": "^3.1.3",
